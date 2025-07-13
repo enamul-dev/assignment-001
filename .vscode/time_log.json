@@ -366,5 +366,41 @@
         "timeSpent": 9
       }
     ]
+  },
+  "assignment-01": {
+    "index.html.git": [
+      {
+        "date": "2025-07-13T11:54:28.434Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-07-13T11:55:54.814Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-07-13T11:56:28.515Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 34
+      },
+      {
+        "date": "2025-07-13T11:56:53.683Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 25
+      }
+    ]
   }
 }
