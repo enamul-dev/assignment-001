@@ -160,3 +160,11 @@ footer ul li{
     margin: 1em;
     color: gray;
 }
+button:hover{
+    background-color: lightskyblue;
+    transition: 0.3s;
+}
+.btn-sub:hover{
+    background-color: lightskyblue;
+    transition: 0.3s;
+}
