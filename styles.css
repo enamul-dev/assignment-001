@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hero-sec{
+    background-image: url('/Assets/Hero-bg.png');
+    height: 600px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.logo{
+    padding-top: 13px;
+    font-size: 23px;
+}
+span{
+    color: blue;
+    font-weight: bold;
+    
+}
+.sign-up-btn{
+   background-color: #4E47FF;
+    color: white;
+    padding: 13px 25px 13px 25px;
+    border-radius: 13px;
+    border: none;
+}
+
+.hero-sec-two{
+    text-align: center;
+    padding-top: 5em;
+}
+.hero-sec-two, h1{
+    font-size: 41px;
+}
+.hero-btn{
+    background-color: #4E47FF;
+    color: white;
+    padding: 13px 25px 13px 25px;
+    border-radius: 13px;
+    border: none;
+}
+
+.sec-two{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0;
+}
+.sec-two p{
+    color: gray;
+}
+.live-btn{
+    background-color: #4E47FF;
+    color: white;
+    padding: 13px 25px 13px 25px;
+    border-radius: 13px;
+    border: none;
+}
+
+.image-sec-two, img{
+    border-radius: 15%;
+}
