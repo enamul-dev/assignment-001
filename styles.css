@@ -61,3 +61,17 @@ span{
 .image-sec-two, img{
     border-radius: 15%;
 }
+
+.sec-three{
+    text-align: center;
+}
+.users{
+    display: flex;
+    justify-content: space-evenly;
+}
+.users h1{
+    color: #4E47FF;
+}
+.users p{
+    color: gray;
+}
