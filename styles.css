@@ -109,3 +109,29 @@ span{
     object-fit: cover;
     margin-right: 2em;
 }
+.form-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+.title-form{
+    margin-top: 7em;
+}
+.input-form{
+    width: 35em;
+    height: 3em;
+    border: none;
+    border-radius: .5em;
+}
+.textarea-form{
+    border: none;
+     width: 35em;
+     border-radius: 1em;
+}
+.btn-sub{
+    background-color: #4E47FF;
+    color: white;
+    padding: 13px 25px 13px 25px;
+    border-radius: 13px;
+    border: none;
+    width: 100%;
+}
