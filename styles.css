@@ -64,10 +64,15 @@ span{
 
 .sec-three{
     text-align: center;
+    background-color: #e5e7ff;
+    margin: 0 20em;
+    padding: 1em;
+    border-radius: 2em;
 }
 .users{
     display: flex;
     justify-content: space-evenly;
+    
 }
 .users h1{
     color: #4E47FF;
